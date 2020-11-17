@@ -4,6 +4,7 @@
     "description": "make random string as you want",
     "version": "0.0.1",
     "publisher": "Eai",
+    "repository": "https://github.com/eai04191/vscode-random-string",
     "engines": {
         "vscode": "^1.51.0"
     },
