@@ -3,6 +3,7 @@
     "displayName": "random-string",
     "description": "make random string as you want",
     "version": "0.0.1",
+    "publisher": "Eai",
     "engines": {
         "vscode": "^1.51.0"
     },
